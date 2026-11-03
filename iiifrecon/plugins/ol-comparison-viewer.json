@@ -1,0 +1,20 @@
+{
+    "pluginid": "a7c94e02-1b6d-4f3a-8e57-2d9c0b6f8e33",
+    "name": {
+        "en": "OpenLayers IIIF Viewer"
+    },
+    "icon": "fa fa-map",
+    "component": "views/components/plugins/ol-comparison-viewer",
+    "componentname": "ol-comparison-viewer",
+    "config": {
+        "show": true,
+        "description": {
+            "en": null
+        },
+        "i18n_properties": [
+            "description"
+        ]
+    },
+    "slug": "ol-comparison-viewer",
+    "sortorder": 11
+}

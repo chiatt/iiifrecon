@@ -1,0 +1,22 @@
+*.pyc
+*.log
+node_modules
+coverage/
+iiifrecon/logs
+iiifrecon/export_deliverables
+iiifrecon/cantaloupe/*
+iiifrecon/staticfiles
+iiifrecon/media/packages
+iiifrecon/media/build/
+iiifrecon/uploadedfiles/*
+iiifrecon/settings_local.py
+webpack-stats.json
+.vscode/
+*.egg-info
+.DS_STORE
+CACHE
+frontend_configuration
+
+# Packaging
+build/
+dist/
